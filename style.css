@@ -1,0 +1,26 @@
+.pd1{
+    background-color: antiquewhite;
+    border: 3px solid rgb(151, 8, 8);
+    width: 450px;
+    height: 450px;
+    margin-left: 25%;
+    margin-top: 15%;
+}
+.pd2{
+    background-color:aqua;
+    border: 3px solid blue;
+    width: 250px;
+    height: 250px;
+    margin-left: 25%;
+    margin-top: 15%;
+
+}
+.pd3{
+    background-color:palevioletred;
+    border: 3px dotted darkgoldenrod;
+    width:150px;
+    height: 150;
+    margin-top: 10%;
+    margin-left: 23%;
+    
+}
